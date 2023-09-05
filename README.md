@@ -25,7 +25,7 @@ Welcome to my portfolio! Here, I document a summary of my projects in the data f
 | 🌤 [Explore Weather Trends](https://github.com/katiehuangx/Udacity-Data-Analyst-Nanodegree/blob/main/Project%201%20-%20Explore%20Weather%20Trends.ipynb) | Time-series analysis | In this time-series analysis, I use moving average method to analyze local and global temperature data and compare the temperature trends where I live to overall global temperature trends. | pandas, matplotlib |
 | 🛍 [Super Store Analysis](https://github.com/katiehuangx/Super-Store-Analysis/blob/main/Super_Store_Analysis.ipynb) | EDA | Analysis of sales data to find out highest revenue and profit product categories and top customer segments. | pandas, matplotlib, seaborn |
 | 🏃🏻‍♀️ [Bellabeat Fitness Tracking Analysis](https://github.com/katiehuangx/Google-Data-Analytics-Capstone/blob/main/bellabeat-data-analysis.ipynb) | EDA | Discovered insights into whether users are using the FitBit app for tracking health habits, their frequency of usage across the week and whether there is correlation between the hours logged, number of steps taken and calories burnt. | pandas, matplotlib, seaborn |
-
+| 🛍 [Online Retail Analysis](https://github.com/TanuYadu/Online_Retail/blob/main/Online_Retail.ipynb) | EDA | Analysed  the sales trends over time and Identified the busiest months and days of the week in terms of sales, also Performed data visualization and gained insights. Generated appropriate plots, such as histograms, bar plots, to visualize different aspects of the data. | pandas, matplotlib, seaborn |
 ***
 
 
