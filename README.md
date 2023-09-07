@@ -11,6 +11,7 @@ Welcome to my portfolio! Here, I document a summary of my projects in the data f
 
 | Project Link | Area of Analysis | Project Description | 
 |---|---|---|
+| 💡 [Data in Motion SQL Challenges](https://github.com/TanuYadu/SQL-Case-Study-Challenge) | Customer Orders Analysis | This repo serves as the solution for the case studies from the [Data in Motion](https://d-i-motion.com/lessons/customer-orders-analysis/). It showcases my ability to tackle various SQL challenges and demonstrates my proficiency in SQL query writing and problem-solving skills. | 
   
 ***
 
