@@ -28,8 +28,8 @@ Welcome to my portfolio! Here, I document a summary of my projects in the data f
 
 # Power BI
 
-| Project Link | Project Description | Dashboard Link |
+<!-- | Project Link | Project Description | Dashboard Link |
 |---|---|---|
 
 
-***
+*** -->
