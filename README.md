@@ -28,8 +28,8 @@ Welcome to my portfolio! Here, I document a summary of my projects in the data f
 
 # Power BI
 
-<!-- | Project Link | Project Description | Dashboard Link |
+| Project Link | Project Description | Activities Performed |
 |---|---|---|
+| [Railways Performance Analytics](https://github.com/TQ05X78/Railways-Performance-Analytics) | Analysed overall performance of Top-5 train types and 4 big railways station in india.| Data Scrubbing using Power Query, Data Modeling, Data Visualization |
 
-
-*** -->
+*** 
