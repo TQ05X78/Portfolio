@@ -11,7 +11,6 @@ Welcome to my portfolio! Here, I document a summary of my projects in the data f
 
 | Project Link | Area of Analysis | Project Description | 
 |---|---|---|
-| 🦄 [Maven Unicorn Challenge](https://github.com/TQ05X78/Maven_Unicorn_Challenge) | Data Cleaning & Data Analysis | Cleansed and transformed data on privately-owned companies (start-ups) valued at over $1 billion using Python. Analyse the insights, including valuations, the top 10 countries and investors with the highest valuations, the most successful unicorns, and the average time it takes to reach a $1 billion valuation. |
 | 💡 [Data in Motion SQL Challenges](https://github.com/TanuYadu/SQL-Case-Study-Challenge) | Customer Orders Analysis | This repo serves as the solution for the case studies from the [Data in Motion](https://d-i-motion.com/lessons/customer-orders-analysis/). It showcases my ability to tackle various SQL challenges and demonstrates my proficiency in SQL query writing and problem-solving skills. | 
 
 
