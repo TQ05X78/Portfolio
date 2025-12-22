@@ -33,7 +33,7 @@ Welcome to my portfolio! Here, I document a summary of my projects in the data f
 
 | Project Link | Project Description | Activities Performed |
 |---|---|---|
-|[Car Sales Analysis](https://github.com/TQ05X78/Car-Sales---Analysis) | I developed an interactive Car Sales Dashboard in Power BI, creating DAX-based KPIs for YTD, MTD, YOY sales, average price, and cars sold. The dashboard includes trend analysis, sales breakdowns by body style, color, region, and company, along with detailed transaction views and interactive slicers for dynamic analysis.| Data Wrangling using Power Query, Data Visualization |
+|[Car Sales Analysis](https://github.com/TQ05X78/Car-Sales---Analysis) | Developed an interactive Car Sales Dashboard in Power BI, creating DAX-based KPIs for YTD, MTD, YOY sales, average price, and cars sold. The dashboard includes trend analysis, sales breakdowns by body style, color, region, and company, along with detailed transaction views and interactive slicers for dynamic analysis.| Data Wrangling using Power Query, Data Visualization |
 |[Patient_Wait_List Analysis](https://github.com/TQ05X78/Patient_Waiting_List_Analysis) | Analysed the monthly trend of waiting list in inpatient and  outpatient categories and the current status of waiting list.Total waiting list for the current month is 709K. Average Waiting list for bifurcation between outpatient,inpatient and day cases waiting list. Average Waiting list for outpatient is 72%, for day case 17% and for inpatient 11%.Monthly trend analysis on the basis of inpatient day cases and outpatient.| Data Wrangling using Power Query, Data Modeling, Data Visualization |
 
 *** 
